@@ -1,1 +1,38 @@
-css
+* {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-family: verdana, sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding-top: 1%;
+}
+
+h1 {
+    font-size: 3.125rem;
+}
+
+h5 {
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+h4 {
+    color: gray;
+    font-size: 1.3125rem;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 0.8rem;
+}
